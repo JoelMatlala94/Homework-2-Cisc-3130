@@ -1,0 +1,21 @@
+public abstract class Transaction {
+   int transactionnumber; //transaction number
+
+
+   public Transaction(int transactionnumber) 
+   {
+       super();
+       this.transactionnumber = transactionnumber;
+   }
+
+  
+   public int getTransactionnumber()
+   {
+       return transactionnumber;
+   }
+
+   @Override
+   public String toString() {
+       return "TRANSACTION "+getTransactionnumber();
+   }
+   
