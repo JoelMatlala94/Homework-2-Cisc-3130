@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Transaction
+comment1.params=transactionnumber
+comment1.target=Transaction(int)
+comment2.params=
+comment2.target=int\ getTransactionnumber()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

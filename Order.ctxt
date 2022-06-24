@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Order
+comment1.params=transnum\ item\ quantity\ itemcost
+comment1.target=Order(int,\ java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=double\ getTotalcost()
+comment3.params=
+comment3.target=double\ getItemcost()
+comment4.params=
+comment4.target=java.lang.String\ getItem()
+comment5.params=
+comment5.target=int\ getQuantity()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

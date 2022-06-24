@@ -1,0 +1,14 @@
+Joel	1000
+
+		PREVIOUS BALANCE 	$3.5
+
+
+
+			BALANCE DUE	$3.5
+Sami	1001
+
+		PREVIOUS BALANCE 	$3.51
+
+
+
+			BALANCE DUE	$3.51
